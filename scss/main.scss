@@ -1,0 +1,13 @@
+$theme-colors: (
+  "primary": #8764e2,
+  "danger": #eb4e4d,
+  "warning": #f7ab44,
+  "info": #4dbfdd,
+  "success": #67c98a,
+);
+
+@import "./bootstrap/bootstrap.scss";
+
+body {
+  font-family: "Montserrat";
+}
